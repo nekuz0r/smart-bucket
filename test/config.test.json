@@ -1,0 +1,15 @@
+{
+  "files": {
+    "existingFile": {
+      "bucket": "test.files",
+      "key": "en.json",
+      "format": "json"
+    },
+    "unexistingFile": {
+      "bucket": "test.files",
+      "key": "jp.json",
+      "format": "json"
+    }
+  },
+  "interval": 60000
+}
